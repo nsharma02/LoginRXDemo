@@ -11,8 +11,7 @@ import CoreData
 class DataStorage{
     
     public static let sharedData = DataStorage()
-
-     lazy var container : NSPersistentContainer = {
+    lazy var container : NSPersistentContainer = {
        let container = NSPersistentContainer(name: "DataModel")
         container.loadPersistentStores(completionHandler: { (description, error) in
             
