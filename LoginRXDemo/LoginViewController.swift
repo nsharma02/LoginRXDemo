@@ -10,6 +10,7 @@ import UIKit
 import RxSwift
 import RxCocoa
 import Firebase
+import FirebaseAuth
 
 class LoginViewController: UIViewController {
 
