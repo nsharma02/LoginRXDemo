@@ -10,6 +10,7 @@
 		4FA2F23F4967B00CADA9819A /* Pods_LoginRXDemoUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EBBC05F2E65AE34941BF3995 /* Pods_LoginRXDemoUITests.framework */; };
 		843E18D7217DD043005E3798 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843E18D6217DD043005E3798 /* BaseViewController.swift */; };
 		843E18D9217EEB62005E3798 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 843E18D8217EEB62005E3798 /* GoogleService-Info.plist */; };
+		846B8F192189842E00431D1E /* RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 846B8F182189842E00431D1E /* RxSwift.framework */; };
 		847F30DA2182EB0900B85F67 /* DataModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 847F30D82182EB0900B85F67 /* DataModel.xcdatamodeld */; };
 		847F30DC2183134B00B85F67 /* DataStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847F30DB2183134B00B85F67 /* DataStorage.swift */; };
 		84954BCB213FCE7100462730 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84954BCA213FCE7100462730 /* AppDelegate.swift */; };
@@ -20,7 +21,6 @@
 		84954BE0213FCE7300462730 /* LoginRXDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84954BDF213FCE7300462730 /* LoginRXDemoTests.swift */; };
 		84954BEB213FCE7300462730 /* LoginRXDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84954BEA213FCE7300462730 /* LoginRXDemoUITests.swift */; };
 		84954BF9213FD3E600462730 /* RxCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84954BF8213FD3E600462730 /* RxCocoa.framework */; };
-		84954BFB213FD3E600462730 /* RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84954BFA213FD3E600462730 /* RxSwift.framework */; };
 		8868852603DB28BBA52AB9F3 /* Pods_LoginRXDemoTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80EF5DC93F3AC0A3DFAB957F /* Pods_LoginRXDemoTests.framework */; };
 		BD4C59B4D34375449361CEB6 /* Pods_LoginRXDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D64403CBEB76BC248FB2779F /* Pods_LoginRXDemo.framework */; };
 /* End PBXBuildFile section */
@@ -50,6 +50,7 @@
 		80EF5DC93F3AC0A3DFAB957F /* Pods_LoginRXDemoTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LoginRXDemoTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		843E18D6217DD043005E3798 /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 		843E18D8217EEB62005E3798 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		846B8F182189842E00431D1E /* RxSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = RxSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		847F30D92182EB0900B85F67 /* DataModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = DataModel.xcdatamodel; sourceTree = "<group>"; };
 		847F30DB2183134B00B85F67 /* DataStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataStorage.swift; sourceTree = "<group>"; };
 		84954BC7213FCE7100462730 /* LoginRXDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoginRXDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -78,8 +79,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				846B8F192189842E00431D1E /* RxSwift.framework in Frameworks */,
 				84954BF9213FD3E600462730 /* RxCocoa.framework in Frameworks */,
-				84954BFB213FD3E600462730 /* RxSwift.framework in Frameworks */,
 				BD4C59B4D34375449361CEB6 /* Pods_LoginRXDemo.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -106,6 +107,7 @@
 		107A8E8C8CB7511B1FD7A8F0 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				846B8F182189842E00431D1E /* RxSwift.framework */,
 				84954BF8213FD3E600462730 /* RxCocoa.framework */,
 				84954BFA213FD3E600462730 /* RxSwift.framework */,
 				D64403CBEB76BC248FB2779F /* Pods_LoginRXDemo.framework */,
