@@ -1,0 +1,513 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LoginViewController"
+provides-nominal:
+- "11LoginRXDemo0A14ViewControllerC"
+provides-member:
+- ["11LoginRXDemo0A14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "button_login"
+- "button_register"
+- "didReceiveMemoryWarning"
+- "label_heading"
+- "stackview_login"
+- "switch_account"
+- "textfield_password"
+- "textfield_username"
+- "viewDidLoad"
+depends-top-level:
+- !private "Auth"
+- "BehaviorRelay"
+- !private "DataStorage"
+- "DisposeBag"
+- !private "FirebaseApp"
+- "LoginViewController"
+- !private "Observable"
+- "UIButton"
+- "UILabel"
+- "UIStackView"
+- "UISwitch"
+- "UITextField"
+- "UIViewController"
+depends-member:
+- !private ["So15CALayerDelegateP", "rx"]
+- !private ["s7CVarArgP", "Auth"]
+- ["s7CVarArgP", "BehaviorRelay"]
+- !private ["s7CVarArgP", "DataStorage"]
+- ["s7CVarArgP", "DisposeBag"]
+- !private ["s7CVarArgP", "FirebaseApp"]
+- !private ["s7CVarArgP", "Observable"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "button_login"]
+- !private ["s7CVarArgP", "button_register"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "disposebag"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "rx"]
+- !private ["s7CVarArgP", "subject"]
+- !private ["s7CVarArgP", "switch_account"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "Auth"]
+- ["s28CustomDebugStringConvertibleP", "BehaviorRelay"]
+- !private ["s28CustomDebugStringConvertibleP", "DataStorage"]
+- ["s28CustomDebugStringConvertibleP", "DisposeBag"]
+- !private ["s28CustomDebugStringConvertibleP", "FirebaseApp"]
+- !private ["s28CustomDebugStringConvertibleP", "Observable"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "button_login"]
+- !private ["s28CustomDebugStringConvertibleP", "button_register"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "disposebag"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "rx"]
+- !private ["s28CustomDebugStringConvertibleP", "subject"]
+- !private ["s28CustomDebugStringConvertibleP", "switch_account"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "rx"]
+- !private ["s23CustomStringConvertibleP", "Auth"]
+- ["s23CustomStringConvertibleP", "BehaviorRelay"]
+- !private ["s23CustomStringConvertibleP", "DataStorage"]
+- ["s23CustomStringConvertibleP", "DisposeBag"]
+- !private ["s23CustomStringConvertibleP", "FirebaseApp"]
+- !private ["s23CustomStringConvertibleP", "Observable"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "button_login"]
+- !private ["s23CustomStringConvertibleP", "button_register"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "disposebag"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "rx"]
+- !private ["s23CustomStringConvertibleP", "subject"]
+- !private ["s23CustomStringConvertibleP", "switch_account"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["11LoginRXDemo11DataStorageC", "sharedData"]
+- !private ["Se", "rx"]
+- !private ["SE", "rx"]
+- !private ["SQ", "Auth"]
+- ["SQ", "BehaviorRelay"]
+- !private ["SQ", "DataStorage"]
+- ["SQ", "DisposeBag"]
+- !private ["SQ", "FirebaseApp"]
+- !private ["SQ", "Observable"]
+- ["SQ", ""]
+- !private ["SQ", "button_login"]
+- !private ["SQ", "button_register"]
+- !private ["SQ", "didReceiveMemoryWarning"]
+- !private ["SQ", "disposebag"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "rx"]
+- !private ["SQ", "subject"]
+- !private ["SQ", "switch_account"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s23ExpressibleByNilLiteralP", "rx"]
+- !private ["SH", "Auth"]
+- ["SH", "BehaviorRelay"]
+- !private ["SH", "DataStorage"]
+- ["SH", "DisposeBag"]
+- !private ["SH", "FirebaseApp"]
+- !private ["SH", "Observable"]
+- ["SH", ""]
+- !private ["SH", "button_login"]
+- !private ["SH", "button_register"]
+- !private ["SH", "didReceiveMemoryWarning"]
+- !private ["SH", "disposebag"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "rx"]
+- !private ["SH", "subject"]
+- !private ["SH", "switch_account"]
+- !private ["SH", "viewDidLoad"]
+- !private ["11LoginRXDemo0A14ViewControllerC", "Auth"]
+- ["11LoginRXDemo0A14ViewControllerC", "BehaviorRelay"]
+- !private ["11LoginRXDemo0A14ViewControllerC", "DataStorage"]
+- ["11LoginRXDemo0A14ViewControllerC", "DisposeBag"]
+- !private ["11LoginRXDemo0A14ViewControllerC", "FirebaseApp"]
+- !private ["11LoginRXDemo0A14ViewControllerC", "Observable"]
+- ["11LoginRXDemo0A14ViewControllerC", "UIButton"]
+- ["11LoginRXDemo0A14ViewControllerC", "UILabel"]
+- ["11LoginRXDemo0A14ViewControllerC", "UIStackView"]
+- ["11LoginRXDemo0A14ViewControllerC", "UISwitch"]
+- ["11LoginRXDemo0A14ViewControllerC", "UITextField"]
+- ["11LoginRXDemo0A14ViewControllerC", "button_login"]
+- ["11LoginRXDemo0A14ViewControllerC", "button_register"]
+- ["11LoginRXDemo0A14ViewControllerC", "didReceiveMemoryWarning"]
+- !private ["11LoginRXDemo0A14ViewControllerC", "disposebag"]
+- ["11LoginRXDemo0A14ViewControllerC", "init"]
+- ["11LoginRXDemo0A14ViewControllerC", "label_heading"]
+- ["11LoginRXDemo0A14ViewControllerC", "setUpSignInObservers"]
+- ["11LoginRXDemo0A14ViewControllerC", "setUpSignUpObservers"]
+- ["11LoginRXDemo0A14ViewControllerC", "stackview_login"]
+- !private ["11LoginRXDemo0A14ViewControllerC", "subject"]
+- ["11LoginRXDemo0A14ViewControllerC", "switch_account"]
+- ["11LoginRXDemo0A14ViewControllerC", "textfield_password"]
+- ["11LoginRXDemo0A14ViewControllerC", "textfield_username"]
+- ["11LoginRXDemo0A14ViewControllerC", "viewDidLoad"]
+- !private ["So8NSCodingP", "Auth"]
+- ["So8NSCodingP", "BehaviorRelay"]
+- !private ["So8NSCodingP", "DataStorage"]
+- ["So8NSCodingP", "DisposeBag"]
+- !private ["So8NSCodingP", "FirebaseApp"]
+- !private ["So8NSCodingP", "Observable"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "button_login"]
+- !private ["So8NSCodingP", "button_register"]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "disposebag"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "rx"]
+- !private ["So8NSCodingP", "subject"]
+- !private ["So8NSCodingP", "switch_account"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "Auth"]
+- ["So26NSExtensionRequestHandlingP", "BehaviorRelay"]
+- !private ["So26NSExtensionRequestHandlingP", "DataStorage"]
+- ["So26NSExtensionRequestHandlingP", "DisposeBag"]
+- !private ["So26NSExtensionRequestHandlingP", "FirebaseApp"]
+- !private ["So26NSExtensionRequestHandlingP", "Observable"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "button_login"]
+- !private ["So26NSExtensionRequestHandlingP", "button_register"]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "disposebag"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "subject"]
+- !private ["So26NSExtensionRequestHandlingP", "switch_account"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So8NSObjectC", "Auth"]
+- ["So8NSObjectC", "BehaviorRelay"]
+- !private ["So8NSObjectC", "DataStorage"]
+- ["So8NSObjectC", "DisposeBag"]
+- !private ["So8NSObjectC", "FirebaseApp"]
+- !private ["So8NSObjectC", "Observable"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "UIStackView"]
+- ["So8NSObjectC", "UISwitch"]
+- ["So8NSObjectC", "UITextField"]
+- ["So8NSObjectC", "button_login"]
+- ["So8NSObjectC", "button_register"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- !private ["So8NSObjectC", "disposebag"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "label_heading"]
+- !private ["So8NSObjectC", "rx"]
+- ["So8NSObjectC", "setUpSignInObservers"]
+- ["So8NSObjectC", "setUpSignUpObservers"]
+- ["So8NSObjectC", "stackview_login"]
+- !private ["So8NSObjectC", "subject"]
+- ["So8NSObjectC", "switch_account"]
+- ["So8NSObjectC", "textfield_password"]
+- ["So8NSObjectC", "textfield_username"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "Auth"]
+- ["So8NSObjectP", "BehaviorRelay"]
+- !private ["So8NSObjectP", "DataStorage"]
+- ["So8NSObjectP", "DisposeBag"]
+- !private ["So8NSObjectP", "FirebaseApp"]
+- !private ["So8NSObjectP", "Observable"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "button_login"]
+- !private ["So8NSObjectP", "button_register"]
+- !private ["So8NSObjectP", "didReceiveMemoryWarning"]
+- !private ["So8NSObjectP", "disposebag"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "rx"]
+- !private ["So8NSObjectP", "subject"]
+- !private ["So8NSObjectP", "switch_account"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["Sq", "rx"]
+- !private ["So29UIAccessibilityIdentificationP", "rx"]
+- !private ["So12UIAppearanceP", "rx"]
+- !private ["So21UIAppearanceContainerP", "Auth"]
+- ["So21UIAppearanceContainerP", "BehaviorRelay"]
+- !private ["So21UIAppearanceContainerP", "DataStorage"]
+- ["So21UIAppearanceContainerP", "DisposeBag"]
+- !private ["So21UIAppearanceContainerP", "FirebaseApp"]
+- !private ["So21UIAppearanceContainerP", "Observable"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "button_login"]
+- !private ["So21UIAppearanceContainerP", "button_register"]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "disposebag"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "rx"]
+- !private ["So21UIAppearanceContainerP", "subject"]
+- !private ["So21UIAppearanceContainerP", "switch_account"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "Auth"]
+- ["So18UIContentContainerP", "BehaviorRelay"]
+- !private ["So18UIContentContainerP", "DataStorage"]
+- ["So18UIContentContainerP", "DisposeBag"]
+- !private ["So18UIContentContainerP", "FirebaseApp"]
+- !private ["So18UIContentContainerP", "Observable"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "button_login"]
+- !private ["So18UIContentContainerP", "button_register"]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "disposebag"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "subject"]
+- !private ["So18UIContentContainerP", "switch_account"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So9UIControlC", "rx"]
+- !private ["So17UICoordinateSpaceP", "rx"]
+- !private ["So13UIDynamicItemP", "rx"]
+- !private ["So18UIFocusEnvironmentP", "Auth"]
+- ["So18UIFocusEnvironmentP", "BehaviorRelay"]
+- !private ["So18UIFocusEnvironmentP", "DataStorage"]
+- ["So18UIFocusEnvironmentP", "DisposeBag"]
+- !private ["So18UIFocusEnvironmentP", "FirebaseApp"]
+- !private ["So18UIFocusEnvironmentP", "Observable"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "button_login"]
+- !private ["So18UIFocusEnvironmentP", "button_register"]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "disposebag"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "rx"]
+- !private ["So18UIFocusEnvironmentP", "subject"]
+- !private ["So18UIFocusEnvironmentP", "switch_account"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "rx"]
+- !private ["So20UIFocusItemContainerP", "rx"]
+- !private ["So30UIPasteConfigurationSupportingP", "Auth"]
+- ["So30UIPasteConfigurationSupportingP", "BehaviorRelay"]
+- !private ["So30UIPasteConfigurationSupportingP", "DataStorage"]
+- ["So30UIPasteConfigurationSupportingP", "DisposeBag"]
+- !private ["So30UIPasteConfigurationSupportingP", "FirebaseApp"]
+- !private ["So30UIPasteConfigurationSupportingP", "Observable"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "button_login"]
+- !private ["So30UIPasteConfigurationSupportingP", "button_register"]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "disposebag"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "rx"]
+- !private ["So30UIPasteConfigurationSupportingP", "subject"]
+- !private ["So30UIPasteConfigurationSupportingP", "switch_account"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "Auth"]
+- ["So11UIResponderC", "BehaviorRelay"]
+- !private ["So11UIResponderC", "DataStorage"]
+- ["So11UIResponderC", "DisposeBag"]
+- !private ["So11UIResponderC", "FirebaseApp"]
+- !private ["So11UIResponderC", "Observable"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "UIStackView"]
+- ["So11UIResponderC", "UISwitch"]
+- ["So11UIResponderC", "UITextField"]
+- ["So11UIResponderC", "button_login"]
+- ["So11UIResponderC", "button_register"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- !private ["So11UIResponderC", "disposebag"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "label_heading"]
+- !private ["So11UIResponderC", "rx"]
+- ["So11UIResponderC", "setUpSignInObservers"]
+- ["So11UIResponderC", "setUpSignUpObservers"]
+- ["So11UIResponderC", "stackview_login"]
+- !private ["So11UIResponderC", "subject"]
+- ["So11UIResponderC", "switch_account"]
+- ["So11UIResponderC", "textfield_password"]
+- ["So11UIResponderC", "textfield_username"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "Auth"]
+- ["So30UIResponderStandardEditActionsP", "BehaviorRelay"]
+- !private ["So30UIResponderStandardEditActionsP", "DataStorage"]
+- ["So30UIResponderStandardEditActionsP", "DisposeBag"]
+- !private ["So30UIResponderStandardEditActionsP", "FirebaseApp"]
+- !private ["So30UIResponderStandardEditActionsP", "Observable"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "button_login"]
+- !private ["So30UIResponderStandardEditActionsP", "button_register"]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "disposebag"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "rx"]
+- !private ["So30UIResponderStandardEditActionsP", "subject"]
+- !private ["So30UIResponderStandardEditActionsP", "switch_account"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "Auth"]
+- ["So16UIStateRestoringP", "BehaviorRelay"]
+- !private ["So16UIStateRestoringP", "DataStorage"]
+- ["So16UIStateRestoringP", "DisposeBag"]
+- !private ["So16UIStateRestoringP", "FirebaseApp"]
+- !private ["So16UIStateRestoringP", "Observable"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "button_login"]
+- !private ["So16UIStateRestoringP", "button_register"]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "disposebag"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "subject"]
+- !private ["So16UIStateRestoringP", "switch_account"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So8UISwitchC", "rx"]
+- !private ["So18UITraitEnvironmentP", "Auth"]
+- ["So18UITraitEnvironmentP", "BehaviorRelay"]
+- !private ["So18UITraitEnvironmentP", "DataStorage"]
+- ["So18UITraitEnvironmentP", "DisposeBag"]
+- !private ["So18UITraitEnvironmentP", "FirebaseApp"]
+- !private ["So18UITraitEnvironmentP", "Observable"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "button_login"]
+- !private ["So18UITraitEnvironmentP", "button_register"]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "disposebag"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "rx"]
+- !private ["So18UITraitEnvironmentP", "subject"]
+- !private ["So18UITraitEnvironmentP", "switch_account"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "Auth"]
+- ["So23UIUserActivityRestoringP", "BehaviorRelay"]
+- !private ["So23UIUserActivityRestoringP", "DataStorage"]
+- ["So23UIUserActivityRestoringP", "DisposeBag"]
+- !private ["So23UIUserActivityRestoringP", "FirebaseApp"]
+- !private ["So23UIUserActivityRestoringP", "Observable"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "button_login"]
+- !private ["So23UIUserActivityRestoringP", "button_register"]
+- !private ["So23UIUserActivityRestoringP", "didReceiveMemoryWarning"]
+- !private ["So23UIUserActivityRestoringP", "disposebag"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "rx"]
+- !private ["So23UIUserActivityRestoringP", "subject"]
+- !private ["So23UIUserActivityRestoringP", "switch_account"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "rx"]
+- !private ["So16UIViewControllerC", "Auth"]
+- ["So16UIViewControllerC", "BehaviorRelay"]
+- !private ["So16UIViewControllerC", "DataStorage"]
+- ["So16UIViewControllerC", "DisposeBag"]
+- !private ["So16UIViewControllerC", "FirebaseApp"]
+- !private ["So16UIViewControllerC", "Observable"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", "UIStackView"]
+- ["So16UIViewControllerC", "UISwitch"]
+- ["So16UIViewControllerC", "UITextField"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "button_login"]
+- ["So16UIViewControllerC", "button_register"]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- !private ["So16UIViewControllerC", "disposebag"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "label_heading"]
+- ["So16UIViewControllerC", "setUpSignInObservers"]
+- ["So16UIViewControllerC", "setUpSignUpObservers"]
+- ["So16UIViewControllerC", "stackview_login"]
+- !private ["So16UIViewControllerC", "subject"]
+- ["So16UIViewControllerC", "switch_account"]
+- ["So16UIViewControllerC", "textfield_password"]
+- ["So16UIViewControllerC", "textfield_username"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "rx"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Auth"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "BehaviorRelay"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "DataStorage"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "DisposeBag"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "FirebaseApp"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Observable"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "button_login"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "button_register"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "disposebag"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "rx"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "subject"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "switch_account"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "rx"]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "11LoginRXDemo11DataStorageC"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- "11LoginRXDemo0A14ViewControllerC"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- !private "So8UISwitchC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/admin/Documents/NitishaWorkspace/Developement/RnD/MyRXDemo/LoginRXDemo/Pods/Firebase/CoreOnly/Sources/module.modulemap"
+- "/Users/admin/.jenkins/workspace/DemoApp/Pods/Firebase/CoreOnly/Sources/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "7ffd647048beda70c81b67fcead1327e"

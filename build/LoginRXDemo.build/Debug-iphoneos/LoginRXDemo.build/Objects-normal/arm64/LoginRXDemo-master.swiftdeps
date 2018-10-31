@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "f48339ad6a5912cd46b6365878e5674e"
+build_time: [1540902200, 878076000]
+inputs:
+  "/Users/admin/Documents/NitishaWorkspace/Developement/RnD/MyRXDemo/LoginRXDemo/LoginRXDemo/LoginViewController.swift": !dirty [1540901530, 0]
+  "/Users/admin/Documents/NitishaWorkspace/Developement/RnD/MyRXDemo/LoginRXDemo/LoginRXDemo/DataStorage.swift": !dirty [1540882494, 0]
+  "/Users/admin/Documents/NitishaWorkspace/Developement/RnD/MyRXDemo/LoginRXDemo/LoginRXDemo/AppDelegate.swift": !dirty [1540882494, 0]
+  "/Users/admin/Documents/NitishaWorkspace/Developement/RnD/MyRXDemo/LoginRXDemo/LoginRXDemo/BaseViewController.swift": !dirty [1540882494, 0]
+  "/Users/admin/Documents/NitishaWorkspace/Developement/RnD/MyRXDemo/LoginRXDemo/build/LoginRXDemo.build/Debug-iphoneos/LoginRXDemo.build/DerivedSources/CoreDataGenerated/DataModel/LoginTrack+CoreDataClass.swift": !dirty [1540902200, 0]
+  "/Users/admin/Documents/NitishaWorkspace/Developement/RnD/MyRXDemo/LoginRXDemo/build/LoginRXDemo.build/Debug-iphoneos/LoginRXDemo.build/DerivedSources/CoreDataGenerated/DataModel/LoginTrack+CoreDataProperties.swift": !dirty [1540902200, 0]
+  "/Users/admin/Documents/NitishaWorkspace/Developement/RnD/MyRXDemo/LoginRXDemo/build/LoginRXDemo.build/Debug-iphoneos/LoginRXDemo.build/DerivedSources/CoreDataGenerated/DataModel/DataModel+CoreDataModel.swift": !dirty [1540902200, 0]
