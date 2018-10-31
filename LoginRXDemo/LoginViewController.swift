@@ -7,10 +7,10 @@
 //
 
 import UIKit
-import RxSwift
 import RxCocoa
 import Firebase
 import FirebaseAuth
+import RxSwift
 
 class LoginViewController: UIViewController {
 
@@ -33,7 +33,6 @@ class LoginViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         FirebaseApp.configure()
-        
         switch_account.rx.isOn.changed.asObservable() //take signal if state is different than before. This is optional depends on your use
             .subscribe(onNext:{[weak self] value in
                 //your code
